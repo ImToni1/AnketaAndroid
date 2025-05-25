@@ -38,13 +38,9 @@ The application consists of the following data input sections:
 
 ## Setup and Running
 
-1.  Clone the repository:
-    ```bash
-    git clone <REPOSITORY_URL>
-    ```
-2.  Open the project in Android Studio.
-3.  Sync Gradle files if necessary.
-4.  Run the application on an emulator or a physical Android device (minimum API level 24).
+1.  Open the project in Android Studio.
+2.  Sync Gradle files if necessary.
+3.  Run the application on an emulator or a physical Android device (minimum API level 24).
 
 ## Project Structure
 
