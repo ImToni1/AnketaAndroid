@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="txt_ime">Name</string>
+    <string name="txt_prezime">Last Name</string>
+    <string name="txt_Email">Email</string>
+    <string name="txt_Lozinka">Password</string>
+    <string name="txtNazad">Back</string>
+    <string name="txtNaredni">Next</string>
+    <string name="txtPocetak">Start</string>
+    <string name="PočetakAnketa">Welcome!\nTo start the survey, press the button.</string>
+    <string name="txt_godiste">Year of birth</string>
+    <string name="txt_visina">Height</string>
+    <string name="txtPodatci">Enter numerical data</string>
+    <string name="CheckBoxRadioButton">Checkbox and Radio button</string>
+    <string name="Teme">Select topics for the newsletter</string>
+    <string name="txtPutovanja">Travel</string>
+    <string name="txtSport">Sport</string>
+    <string name="txtMuzika">Music</string>
+    <string name="Odaberi">Choose one.</string>
+    <string name="txtmladji">0-18 years</string>
+    <string name="txtsrednji">19-30 years</string>
+    <string name="txtstariji">older than 30 years</string>
+    <string name="Dijalog">Date and Date picker dialog</string>
+    <string name="txtDatum">Date</string>
+    <string name="txtVrijeme">Time</string>
+    <string name="odabrati1">Select one of the following countries</string>
+    <string name="txtZavrši">Finish</string>
+    <string name="txtpodaci">All data</string>
+    <string name="txt_spinner">Dropdown menu</string>
+    <string name="Croatia">Croatia</string>
+    <string name="Bosnia">Bosnia</string>
+</resources>

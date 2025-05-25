@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Anketa</string>
+    <string name="txt_ime">Ime</string>
+    <string name="txt_prezime">Prezime</string>
+    <string name="txt_Email">Email</string>
+    <string name="txt_Lozinka">Lozinka</string>
+    <string name="txtNazad">Nazad</string>
+    <string name="txtNaredni">Sljedeći</string>
+    <string name="txtPocetak">Početak</string>
+    <string name="PočetakAnketa">Dobrodošli!\nZa početak ankete pritisnite gumb.</string>
+    <string name="txt_godiste">Godina rođenja</string>
+    <string name="txt_visina">Visina</string>
+    <string name="txtPodatci">Unesite brojčane podatke</string>
+    <string name="CheckBoxRadioButton">Potvrdni okvir i Radio gumb</string> <string name="Teme">Odaberite teme za newsletter</string>
+    <string name="txtPutovanja">Putovanja</string>
+    <string name="txtSport">Sport</string>
+    <string name="txtMuzika">Glazba</string>
+    <string name="Odaberi">Odaberi jedno.</string>
+    <string name="txtmladji">0-18 godina</string>
+    <string name="txtsrednji">19-30 godina</string>
+    <string name="txtstariji">više od 30 godina</string>
+    <string name="Dijalog">Datum i Dijalog za odabir datuma</string>
+    <string name="txtDatum">Datum</string>
+    <string name="txtVrijeme">Vrijeme</string>
+    <string name="odabrati1">Odaberite jednu od sljedećih država</string>
+    <string name="txtZavrši">Završi</string>
+    <string name="txtpodaci">Svi podaci</string>
+    <string name="txt_spinner">Padajući izbornik</string>
+    <string name="Croatia">Hrvatska</string>
+    <string name="Bosnia">Bosna</string>
+</resources>
